@@ -1,0 +1,251 @@
+,movie_id,movie_name,rating,votes
+0,0111161,The Shawshank Redemption,9.3,2416205
+1,0068646,The Godfather,9.2,1671419
+2,0071562,The Godfather: Part II,9.0,1160881
+3,0468569,The Dark Knight,9.0,2373940
+4,0050083,12 Angry Men,9.0,711965
+5,0108052,Schindler's List,8.9,1244125
+6,0167260,The Lord of the Rings: The Return of the King,8.9,1682432
+7,0110912,Pulp Fiction,8.9,1875261
+8,0060196,"The Good, the Bad and the Ugly",8.8,704539
+9,0120737,The Lord of the Rings: The Fellowship of the Ring,8.8,1703503
+10,0137523,Fight Club,8.8,1905986
+11,0109830,Forrest Gump,8.8,1866484
+12,1375666,Inception,8.8,2130781
+13,0167261,The Lord of the Rings: The Two Towers,8.7,1521147
+14,0080684,Star Wars: Episode V - The Empire Strikes Back,8.7,1185521
+15,0133093,The Matrix,8.7,1722300
+16,0099685,Goodfellas,8.7,1050233
+17,0073486,One Flew Over the Cuckoo's Nest,8.7,938694
+18,0047478,Seven Samurai,8.6,323201
+19,0114369,Se7en,8.6,1488119
+20,0102926,The Silence of the Lambs,8.6,1307684
+21,0317248,City of God,8.6,712761
+22,0118799,Life Is Beautiful,8.6,640735
+23,0038650,It's a Wonderful Life,8.6,414707
+24,0076759,Star Wars: Episode IV - A New Hope,8.6,1257627
+25,0120815,Saving Private Ryan,8.6,1271389
+26,0245429,Spirited Away,8.6,677493
+27,0816692,Interstellar,8.6,1576346
+28,0120689,The Green Mile,8.6,1181875
+29,6751668,Parasite,8.6,626245
+30,0110413,Léon: The Professional,8.5,1063329
+31,0056058,Hara-Kiri,8.6,46106
+32,0114814,The Usual Suspects,8.5,1013002
+33,0253474,The Pianist,8.5,754789
+34,0088763,Back to the Future,8.5,1090766
+35,0103064,Terminator 2: Judgment Day,8.5,1017095
+36,0027977,Modern Times,8.5,224212
+37,0054215,Psycho,8.5,619685
+38,0110357,The Lion King,8.5,967792
+39,0120586,American History X,8.5,1054156
+40,0021749,City Lights,8.5,172265
+41,0172495,Gladiator,8.5,1376111
+42,0095327,Grave of the Fireflies,8.5,245758
+43,2582802,Whiplash,8.5,746593
+44,0407887,The Departed,8.5,1221102
+45,1675434,The Intouchables,8.5,783836
+46,0482571,The Prestige,8.5,1224251
+47,0034583,Casablanca,8.5,533215
+48,0064116,Once Upon a Time in the West,8.5,309315
+49,0047396,Rear Window,8.5,455239
+50,0095765,Cinema Paradiso,8.5,238660
+51,0078748,Alien,8.4,808509
+52,0078788,Apocalypse Now,8.4,620635
+53,0209144,Memento,8.4,1151516
+54,0082971,Indiana Jones and the Raiders of the Lost Ark,8.4,903127
+55,0032553,The Great Dictator,8.4,208100
+56,0405094,The Lives of Others,8.4,367337
+57,1853728,Django Unchained,8.4,1399943
+58,0050825,Paths of Glory,8.4,183231
+59,0043014,Sunset Blvd.,8.4,206642
+60,0910970,WALL·E,8.4,1026091
+61,0081505,The Shining,8.4,924642
+62,4154756,Avengers: Infinity War,8.4,891846
+63,0051201,Witness for the Prosecution,8.4,112923
+64,7286456,Joker,8.4,1020973
+65,0057012,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,8.4,459812
+66,4633694,Spider-Man: Into the Spider-Verse,8.4,408519
+67,0364569,Oldboy,8.4,530964
+68,0119698,Princess Mononoke,8.4,355647
+69,8503618,Hamilton,8.4,67857
+70,5311514,Your Name.,8.4,213986
+71,0087843,Once Upon a Time in America,8.4,320459
+72,1345836,The Dark Knight Rises,8.4,1554684
+73,0090605,Aliens,8.3,666705
+74,2380307,Coco,8.4,414291
+75,0082096,Das Boot,8.3,236767
+76,8267604,Capernaum,8.4,70804
+77,4154796,Avengers: Endgame,8.4,896097
+78,0057565,High and Low,8.4,37310
+79,0169547,American Beauty,8.3,1090138
+80,0048473,Pather Panchali,8.5,26339
+81,0114709,Toy Story,8.3,910870
+82,0112573,Braveheart,8.3,977284
+83,0086879,Amadeus,8.3,376854
+84,1187043,3 Idiots,8.4,359603
+85,0361748,Inglourious Basterds,8.3,1308148
+86,0119217,Good Will Hunting,8.3,885751
+87,0086190,Star Wars: Episode VI - Return of the Jedi,8.3,971358
+88,0062622,2001: A Space Odyssey,8.3,618235
+89,0105236,Reservoir Dogs,8.3,941378
+90,0022100,M,8.3,147255
+91,0986264,Like Stars on Earth,8.4,176604
+92,0052357,Vertigo,8.3,373674
+93,0033467,Citizen Kane,8.3,414710
+94,2106476,The Hunt,8.3,295718
+95,0180093,Requiem for a Dream,8.3,784343
+96,0091251,Come and See,8.3,64300
+97,0045152,Singin' in the Rain,8.3,224466
+98,0053125,North by Northwest,8.3,305693
+99,0338013,Eternal Sunshine of the Spotless Mind,8.3,933459
+100,0040522,Bicycle Thieves,8.3,151043
+101,0044741,Ikiru,8.3,71207
+102,0056172,Lawrence of Arabia,8.3,274057
+103,0012349,The Kid,8.3,117172
+104,0093058,Full Metal Jacket,8.3,690006
+105,5074352,Dangal,8.4,166181
+106,10272386,The Father,8.3,76542
+107,0066921,A Clockwork Orange,8.3,773726
+108,0017136,Metropolis,8.3,163592
+109,0075314,Taxi Driver,8.3,746866
+110,0036775,Double Indemnity,8.3,146990
+111,0070735,The Sting,8.3,246839
+112,0053604,The Apartment,8.3,168595
+113,8579674,1917,8.3,470447
+114,1832382,A Separation,8.3,226672
+115,1255953,Incendies,8.3,157281
+116,0211915,Amélie,8.3,716629
+117,0208092,Snatch,8.3,799122
+118,0086250,Scarface,8.3,764661
+119,0435761,Toy Story 3,8.2,774474
+120,0056592,To Kill a Mockingbird,8.3,298987
+121,0059578,For a Few Dollars More,8.2,238342
+122,1049413,Up,8.2,959967
+123,0097576,Indiana Jones and the Last Crusade,8.2,706233
+124,0119488,L.A. Confidential,8.2,543322
+125,0113277,Heat,8.2,594397
+126,0042876,Rashomon,8.2,156709
+127,0055630,Yojimbo,8.2,114369
+128,0089881,Ran,8.2,116277
+129,0095016,Die Hard,8.2,808497
+130,0071853,Monty Python and the Holy Grail,8.2,509911
+131,6966692,Green Book,8.2,411499
+132,0363163,Downfall,8.2,337543
+133,0372784,Batman Begins,8.2,1340215
+134,0042192,All About Eve,8.2,123320
+135,0053291,Some Like It Hot,8.2,249368
+136,0105695,Unforgiven,8.2,384593
+137,0118849,Children of Heaven,8.3,68103
+138,0347149,Howl's Moving Castle,8.2,348701
+139,0993846,The Wolf of Wall Street,8.2,1235738
+140,0057115,The Great Escape,8.2,229874
+141,0055031,Judgment at Nuremberg,8.2,71710
+142,0112641,Casino,8.2,479431
+143,0040897,The Treasure of the Sierra Madre,8.2,116928
+144,0457430,Pan's Labyrinth,8.2,630609
+145,0469494,There Will Be Blood,8.2,533951
+146,0268978,A Beautiful Mind,8.2,869565
+147,1305806,The Secret in Their Eyes,8.2,198011
+148,0081398,Raging Bull,8.2,329114
+149,0096283,My Neighbor Totoro,8.2,303360
+150,0071315,Chinatown,8.2,302590
+151,0120735,"Lock, Stock and Two Smoking Barrels",8.2,546711
+152,0015864,The Gold Rush,8.2,103908
+153,5027774,"Three Billboards Outside Ebbing, Missouri",8.1,454423
+154,0046912,Dial M for Murder,8.2,162795
+155,0477348,No Country for Old Men,8.1,884215
+156,1130884,Shutter Island,8.2,1171227
+157,0050976,The Seventh Seal,8.2,170255
+158,0080678,The Elephant Man,8.1,225419
+159,0084787,The Thing,8.1,381549
+160,0167404,The Sixth Sense,8.1,929025
+161,4729430,Klaus,8.2,114907
+162,2096673,Inside Out,8.1,639507
+163,0434409,V for Vendetta,8.1,1053608
+164,0041959,The Third Man,8.1,162161
+165,0050986,Wild Strawberries,8.2,99424
+166,0083658,Blade Runner,8.1,709409
+167,0050212,The Bridge on the River Kwai,8.1,207775
+168,0117951,Trainspotting,8.1,646516
+169,0120382,The Truman Show,8.1,970095
+170,0107290,Jurassic Park,8.1,891871
+171,1291584,Warrior,8.1,444437
+172,0353969,Memories of Murder,8.1,151125
+173,0476735,My Father and My Son,8.3,81496
+174,0116282,Fargo,8.1,633174
+175,0266543,Finding Nemo,8.1,970277
+176,0031381,Gone with the Wind,8.1,295981
+177,0266697,Kill Bill: Vol. 1,8.1,1026355
+178,0046438,Tokyo Story,8.2,55544
+179,0047296,On the Waterfront,8.1,145360
+180,0079944,Stalker,8.1,121361
+181,0017925,The General,8.1,83305
+182,3011894,Wild Tales,8.1,183424
+183,0077416,The Deer Hunter,8.1,318316
+184,0015324,Sherlock Jr.,8.2,44101
+185,1205489,Gran Torino,8.1,733158
+186,3170832,Room,8.1,385148
+187,2278388,The Grand Budapest Hotel,8.1,732082
+188,0060827,Persona,8.1,107508
+189,0112471,Before Sunrise,8.1,281243
+190,0978762,Mary and Max,8.1,167924
+191,1392214,Prisoners,8.1,623200
+192,0107207,In the Name of the Father,8.1,162712
+193,0031679,Mr. Smith Goes to Washington,8.1,109305
+194,2267998,Gone Girl,8.1,890514
+195,0264464,Catch Me If You Can,8.1,864178
+196,2119532,Hacksaw Ridge,8.1,455857
+197,0035446,To Be or Not to Be,8.2,32065
+198,8108198,Andhadhun,8.2,78735
+199,0072684,Barry Lyndon,8.1,154529
+200,0118715,The Big Lebowski,8.1,751849
+201,1950186,Ford v Ferrari,8.1,320586
+202,2024544,12 Years a Slave,8.1,656133
+203,0019254,The Passion of Joan of Arc,8.1,49534
+204,0892769,How to Train Your Dragon,8.1,683182
+205,1392190,Mad Max: Fury Road,8.1,910035
+206,0046268,The Wages of Fear,8.1,56335
+207,0052618,Ben-Hur,8.1,223950
+208,0405159,Million Dollar Baby,8.1,649204
+209,0097165,Dead Poets Society,8.1,440608
+210,0074958,Network,8.1,148353
+211,1201607,Harry Potter and the Deathly Hallows: Part 2,8.1,788605
+212,0077711,Autumn Sonata,8.2,29421
+213,0092005,Stand by Me,8.1,373155
+214,4016934,The Handmaiden,8.1,122857
+215,0061512,Cool Hand Luke,8.1,165761
+216,0053198,The 400 Blows,8.1,108805
+217,3315342,Logan,8.1,672348
+218,0116231,The Bandit,8.2,66313
+219,1028532,Hachi: A Dog's Tale,8.1,261930
+220,0091763,Platoon,8.1,388965
+221,0113247,La Haine,8.1,156332
+222,0079470,Monty Python's Life of Brian,8.1,375032
+223,1895587,Spotlight,8.1,433914
+224,0395169,Hotel Rwanda,8.1,339833
+225,0032976,Rebecca,8.1,127237
+226,1979320,Rush,8.1,445611
+227,0758758,Into the Wild,8.1,586787
+228,0060107,Andrei Rublev,8.1,49016
+229,0198781,"Monsters, Inc.",8.1,836026
+230,1954470,Gangs of Wasseypur,8.2,87016
+231,0245712,Amores Perros,8.1,227909
+232,5323662,A Silent Voice: The Movie,8.2,57406
+233,0075148,Rocky,8.1,531558
+234,7060344,Raatchasan,8.5,31813
+235,0118694,In the Mood for Love,8.1,131941
+236,0087544,Nausicaä of the Valley of the Wind,8.1,156277
+237,0025316,It Happened One Night,8.1,96590
+238,11032374,Demon Slayer: Mugen Train,8.4,27091
+239,0058946,The Battle of Algiers,8.1,55013
+240,12361178,Drishyam 2,8.7,28015
+241,0381681,Before Sunset,8.1,243507
+242,0048021,Rififi,8.1,30984
+243,0111495,Three Colors: Red,8.1,94129
+244,0083922,Fanny and Alexander,8.1,59091
+245,0093779,The Princess Bride,8.1,401159
+246,0169858,Neon Genesis Evangelion: The End of Evangelion,8.1,42935
+247,2948372,Soul,8.1,258318
+248,0018455,Sunrise,8.1,47973
+249,10431500,Miracle in Cell No. 7,8.2,40370
