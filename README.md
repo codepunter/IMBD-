@@ -6,7 +6,8 @@
 
 
 Algorithm Behind IMDB top 250:
-The formula for calculating the Top Rated 250 Titles gives a true Bayesian estimate: weighted rating.
+The formula for calculating the Top Rated 250 Titles gives a true Bayesian estimate: weighted rating:
+
 (WR) = (v ÷ (v+m)) × R + (m ÷ (v+m)) × C  where:
 
 R = average for the movie (mean) = (Rating)
